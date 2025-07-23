@@ -60,7 +60,8 @@ python -m venv venv
   - ** Pranav **  
     [Pranav352](https://github.com/Pranav352)
 
-<img width="1573" height="976" alt="Screenshot 2025-07-23 142041" src="https://github.com/user-attachments/assets/94c61de0-d27d-4f5b-85e7-96c679178904" />
+<img width="1102" height="938" alt="Screenshot 2025-07-23 142041" src="https://github.com/user-attachments/assets/f3cd24ef-be0b-4fb3-9462-c64a68178aad" />
+
 
 
 
