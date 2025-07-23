@@ -58,7 +58,10 @@ python -m venv venv
 
 🙋‍♂️ Author
   - ** Pranav **  
-    [Pranav352](https://github.com/Pranav352) 
+    [Pranav352](https://github.com/Pranav352)
+
+<img width="1573" height="976" alt="Screenshot 2025-07-23 142041" src="https://github.com/user-attachments/assets/94c61de0-d27d-4f5b-85e7-96c679178904" />
+
 
 
 
