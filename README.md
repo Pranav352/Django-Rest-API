@@ -56,6 +56,10 @@ python -m venv venv
 | **Virtualenv / venv**     | Python environment manager for isolating dependencies                      |
 | **pip**                   | Python package installer                                                    |
 
+🙋‍♂️ Author
+
+** Pranav **
+Pranav352
 
 
 
