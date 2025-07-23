@@ -57,9 +57,8 @@ python -m venv venv
 | **pip**                   | Python package installer                                                    |
 
 🙋‍♂️ Author
-
-** Pranav **
-Pranav352
+  - ** Pranav **  
+    [Pranav352](https://github.com/Pranav352) 
 
 
 
