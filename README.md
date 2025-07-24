@@ -26,11 +26,13 @@ A powerful and flexible Django REST API for managing [Your Resource, e.g., Book 
 - Postman (for API testing)
 
 Create and activate a virtual environment:
-python -m venv venv
-     On Mac: source venv/bin/activate 
-     On Windows: venv\Scripts\activate
+
+## python -m venv venv
+  - On Mac: source venv/bin/activate 
+  - On Windows: venv\Scripts\activate
 
 # Run migrations:
+  python manage.py migrations
   python manage.py migrate
 
 # Create a superuser (optional):
