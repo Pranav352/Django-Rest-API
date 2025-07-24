@@ -2,7 +2,7 @@
 
 # 🧩 Django REST API Project
 
-A powerful and flexible Django REST API for managing [Your Resource, e.g., companies, Employee, etc.], built using Django and Django REST Framework (DRF).
+A powerful and flexible Django REST API for managing [Your Resource, e.g., Book , etc.], built using Django and Django REST Framework (DRF).
 
 ---
 
